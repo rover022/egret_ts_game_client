@@ -1,8 +1,24 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,b_n_jpg,bxx4-1_n_png,bxx4_n_png,dlu10_s_png,dlu10_n_png",
 			"name": "preload"
+		},
+		{
+			"keys": "bxx2_n_png,bxx2_s_png,bxx3_n_png,bxx3_s_png,cz_n_png,cz_s_png,dejing59_n_png,dejing61_n_png,dzpk_tx_k_png,dzpk_yzmz_png,dzpk_yzm_mrt_png,dzpk_yzm_srk_png,dzpk_yzm_sxan_png,dzpk_yzm_sxan_s_png,dzp_d1t_png,dzp_d1t2_png,dzp_d2t_png,dzp_d2t2_png,dzp_d3t_png,dzp_d3t2_png,dzp_d4t_png,dzp_d4t2_png,dzp_d5t_png,dzp_d5t2_png,dzp_dd_1_png,dzp_dd_2_png,dzp_dljl_png,dzp_dljz_png,dzp_gb_png,dzp_jgd_png,dzp_ks_n_png,dzp_ks_s_png,dzp_tips_png,dzp_tips_2x_png,dzp_tips_sz1_png,dzp_tips_sz2_png,dzp_tips_x_png,dzp_viojz_png,dzp_wq_png,dzp_z_png,dzp_zjjb_png,erji1_n_png,erji2_n_png,erji3_n_png,erji4_n_png,erji5_n_png,jz1_n_jpg,jz2_n_png,jz3_n_png,la1_n_png,la2-1_n_png,la2_n_png,la3-1_n_png,la3_n_png,la4-1_n_png,la4_n_png,la5_n_png,la6_n_png,la7_n_png,la9-4_n_png,lgicon_png,load3_n_png,load4_n_png,load5_n_png,load6_n_png,load7_n_png,load8_n_png,mgicon_png,nao1_n_png,nao2_n_png,nao3_n_png,nt1_n_png,nt_n_png,ph20_n_png,ph7_n_png,ph8_n_png,ph9_n_png,renwu1-1_n_png,renwu1-2_n_png,renwu1_n_png,renwu1_s_png,renwu2_n_png,renwu3_n_png,renwu3_s_png,renwu4_n_png,renwu5_n_png,sgj_cz_n_png,sgj_cz_s_png,ting1_n_png,ting2_n_png,ting3_n_png,ting4_n_png,ting5_n_png,ting6_n_png,ting7_n_png,yule1_n_png,yule2_n_png,yule3_n_png,zqicon_png",
+			"name": "publicUI"
+		},
+		{
+			"keys": "",
+			"name": "game1"
+		},
+		{
+			"keys": "jiesuan1_n_png,jiesuan2-1_n_png,jiesuan2-2_n_png,jiesuan2-3_n_png,jiesuan2_n_png,jiesuan3-1_n_png,jiesuan3_n_png,jiesuan4-1_n_png,jiesuan4_n_png,jiesuan5-1_n_png,jiesuan5_n_png,longhu100_n_png,longhu10_n_png,longhu10_s_png,longhu11_n_png,longhu12_n_png,longhu13_n_png,longhu14-1_n_png,longhu14_n_png,longhu15-1_n_png,longhu15_n_png,longhu16_n_png,longhu17_n_png,longhu18_n_png,longhu19_n_png,longhu1_n_jpg,longhu20-1_n_png,longhu20-2_n_png,longhu20_n_png,longhu21_n_png,longhu22_n_png,longhu23_n_png,longhu24_n_png,longhu24_s_png,longhu25-1_n_png,longhu25-1_s_png,longhu25-2_n_png,longhu25_n_png,longhu25_s_png,longhu26_n_png,longhu26_s_png,longhu27_n_png,longhu28_n_png,longhu29_n_png,longhu2_n_png,longhu3-1_n_png,longhu30_n_png,longhu31_n_png,longhu31_s_png,longhu32_n_png,longhu32_s_png,longhu33_n_png,longhu33_s_png,longhu34_n_png,longhu35-1_n_png,longhu35-2_n_png,longhu35-2_s_png,longhu35-3_n_png,longhu35-3_s_png,longhu35-4_n_png,longhu35-4_s_png,longhu35-5_n_png,longhu35-5_s_png,longhu35-6_n_png,longhu35-7_n_png,longhu35-8_n_png,longhu35-9_n_png,longhu35_n_png,longhu36-1_n_png,longhu36_n_png,longhu37-1_n_png,longhu37_n_png,longhu38-1_n_png,longhu38_n_png,longhu39_n_png,longhu3_n_png,longhu40_n_png,longhu40_s_png,longhu41-1_n_png,longhu41_n_png,longhu42_n_png,longhu42_s_png,longhu43_n_png,longhu4_n_png,longhu5_n_png,longhu6_n_png,longhu7_n_png,longhu7_s_png,longhu80_n_png,longhu81_n_png,longhu8_1_n_png,longhu8_n_png,longhu9-1_n_png,longhu9-1_s_png,longhu9_n_png,longhu9_s_png,longhu_fj_dc_png,longhu_fj_dg_png,longhu_fj_hdg_png,longhu_lt_pp_png",
+			"name": "game5_longhu"
+		},
+		{
+			"keys": "10A_png,10B_png,10C_png,10D_png,11A_png,11B_png,11C_png,11D_png,12A_png,12B_png,12C_png,12D_png,13A_png,13B_png,13C_png,13D_png,1A_png,1B_png,1C_png,1D_png,2A_png,2B_png,2C_png,2D_png,3A_png,3B_png,3C_png,3D_png,4A_png,4B_png,4C_png,4D_png,5A_png,5B_png,5C_png,5D_png,6A_png,6B_png,6C_png,6D_png,7A_png,7B_png,7C_png,7D_png,8A_png,8B_png,8C_png,8D_png,9A_png,9B_png,9C_png,9D_png,beimiangray_png,card_back_png",
+			"name": "cards"
 		}
 	],
 	"resources": [
@@ -132,9 +148,1299 @@
 			"name": "egret_icon_png"
 		},
 		{
-			"name": "description_json",
+			"url": "config/description.json",
 			"type": "json",
-			"url": "config/description.json"
+			"name": "description_json"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/bxx2_n.png",
+			"type": "image",
+			"name": "bxx2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/bxx2_s.png",
+			"type": "image",
+			"name": "bxx2_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/bxx3_n.png",
+			"type": "image",
+			"name": "bxx3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/bxx3_s.png",
+			"type": "image",
+			"name": "bxx3_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/10A.png",
+			"type": "image",
+			"name": "10A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/10B.png",
+			"type": "image",
+			"name": "10B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/10C.png",
+			"type": "image",
+			"name": "10C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/10D.png",
+			"type": "image",
+			"name": "10D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/11A.png",
+			"type": "image",
+			"name": "11A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/11B.png",
+			"type": "image",
+			"name": "11B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/11C.png",
+			"type": "image",
+			"name": "11C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/11D.png",
+			"type": "image",
+			"name": "11D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/12A.png",
+			"type": "image",
+			"name": "12A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/12B.png",
+			"type": "image",
+			"name": "12B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/12C.png",
+			"type": "image",
+			"name": "12C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/12D.png",
+			"type": "image",
+			"name": "12D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/13A.png",
+			"type": "image",
+			"name": "13A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/13B.png",
+			"type": "image",
+			"name": "13B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/13C.png",
+			"type": "image",
+			"name": "13C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/13D.png",
+			"type": "image",
+			"name": "13D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/1A.png",
+			"type": "image",
+			"name": "1A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/1B.png",
+			"type": "image",
+			"name": "1B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/1C.png",
+			"type": "image",
+			"name": "1C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/1D.png",
+			"type": "image",
+			"name": "1D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/2A.png",
+			"type": "image",
+			"name": "2A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/2B.png",
+			"type": "image",
+			"name": "2B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/2C.png",
+			"type": "image",
+			"name": "2C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/2D.png",
+			"type": "image",
+			"name": "2D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/3A.png",
+			"type": "image",
+			"name": "3A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/3B.png",
+			"type": "image",
+			"name": "3B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/3C.png",
+			"type": "image",
+			"name": "3C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/3D.png",
+			"type": "image",
+			"name": "3D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/4A.png",
+			"type": "image",
+			"name": "4A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/4B.png",
+			"type": "image",
+			"name": "4B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/4C.png",
+			"type": "image",
+			"name": "4C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/4D.png",
+			"type": "image",
+			"name": "4D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/5A.png",
+			"type": "image",
+			"name": "5A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/5B.png",
+			"type": "image",
+			"name": "5B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/5C.png",
+			"type": "image",
+			"name": "5C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/5D.png",
+			"type": "image",
+			"name": "5D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/6A.png",
+			"type": "image",
+			"name": "6A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/6B.png",
+			"type": "image",
+			"name": "6B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/6C.png",
+			"type": "image",
+			"name": "6C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/6D.png",
+			"type": "image",
+			"name": "6D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/7A.png",
+			"type": "image",
+			"name": "7A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/7B.png",
+			"type": "image",
+			"name": "7B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/7C.png",
+			"type": "image",
+			"name": "7C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/7D.png",
+			"type": "image",
+			"name": "7D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/8A.png",
+			"type": "image",
+			"name": "8A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/8B.png",
+			"type": "image",
+			"name": "8B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/8C.png",
+			"type": "image",
+			"name": "8C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/8D.png",
+			"type": "image",
+			"name": "8D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/9A.png",
+			"type": "image",
+			"name": "9A_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/9B.png",
+			"type": "image",
+			"name": "9B_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/9C.png",
+			"type": "image",
+			"name": "9C_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/9D.png",
+			"type": "image",
+			"name": "9D_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/beimiangray.png",
+			"type": "image",
+			"name": "beimiangray_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/card/card_back.png",
+			"type": "image",
+			"name": "card_back_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/cz_n.png",
+			"type": "image",
+			"name": "cz_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/cz_s.png",
+			"type": "image",
+			"name": "cz_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dejing59_n.png",
+			"type": "image",
+			"name": "dejing59_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dejing61_n.png",
+			"type": "image",
+			"name": "dejing61_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzpk_tx_k.png",
+			"type": "image",
+			"name": "dzpk_tx_k_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzpk_yzmz.png",
+			"type": "image",
+			"name": "dzpk_yzmz_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzpk_yzm_mrt.png",
+			"type": "image",
+			"name": "dzpk_yzm_mrt_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzpk_yzm_srk.png",
+			"type": "image",
+			"name": "dzpk_yzm_srk_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzpk_yzm_sxan.png",
+			"type": "image",
+			"name": "dzpk_yzm_sxan_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzpk_yzm_sxan_s.png",
+			"type": "image",
+			"name": "dzpk_yzm_sxan_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d1t.png",
+			"type": "image",
+			"name": "dzp_d1t_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d1t2.png",
+			"type": "image",
+			"name": "dzp_d1t2_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d2t.png",
+			"type": "image",
+			"name": "dzp_d2t_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d2t2.png",
+			"type": "image",
+			"name": "dzp_d2t2_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d3t.png",
+			"type": "image",
+			"name": "dzp_d3t_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d3t2.png",
+			"type": "image",
+			"name": "dzp_d3t2_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d4t.png",
+			"type": "image",
+			"name": "dzp_d4t_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d4t2.png",
+			"type": "image",
+			"name": "dzp_d4t2_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d5t.png",
+			"type": "image",
+			"name": "dzp_d5t_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_d5t2.png",
+			"type": "image",
+			"name": "dzp_d5t2_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_dd_1.png",
+			"type": "image",
+			"name": "dzp_dd_1_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_dd_2.png",
+			"type": "image",
+			"name": "dzp_dd_2_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_dljl.png",
+			"type": "image",
+			"name": "dzp_dljl_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_dljz.png",
+			"type": "image",
+			"name": "dzp_dljz_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_gb.png",
+			"type": "image",
+			"name": "dzp_gb_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_jgd.png",
+			"type": "image",
+			"name": "dzp_jgd_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_ks_n.png",
+			"type": "image",
+			"name": "dzp_ks_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_ks_s.png",
+			"type": "image",
+			"name": "dzp_ks_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_tips.png",
+			"type": "image",
+			"name": "dzp_tips_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_tips_2x.png",
+			"type": "image",
+			"name": "dzp_tips_2x_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_tips_sz1.png",
+			"type": "image",
+			"name": "dzp_tips_sz1_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_tips_sz2.png",
+			"type": "image",
+			"name": "dzp_tips_sz2_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_tips_x.png",
+			"type": "image",
+			"name": "dzp_tips_x_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_viojz.png",
+			"type": "image",
+			"name": "dzp_viojz_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_wq.png",
+			"type": "image",
+			"name": "dzp_wq_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_z.png",
+			"type": "image",
+			"name": "dzp_z_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/dzp_zjjb.png",
+			"type": "image",
+			"name": "dzp_zjjb_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/erji1_n.png",
+			"type": "image",
+			"name": "erji1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/erji2_n.png",
+			"type": "image",
+			"name": "erji2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/erji3_n.png",
+			"type": "image",
+			"name": "erji3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/erji4_n.png",
+			"type": "image",
+			"name": "erji4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/erji5_n.png",
+			"type": "image",
+			"name": "erji5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/jz1_n.jpg",
+			"type": "image",
+			"name": "jz1_n_jpg"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/jz2_n.png",
+			"type": "image",
+			"name": "jz2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/jz3_n.png",
+			"type": "image",
+			"name": "jz3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la1_n.png",
+			"type": "image",
+			"name": "la1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la2-1_n.png",
+			"type": "image",
+			"name": "la2-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la2_n.png",
+			"type": "image",
+			"name": "la2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la3-1_n.png",
+			"type": "image",
+			"name": "la3-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la3_n.png",
+			"type": "image",
+			"name": "la3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la4-1_n.png",
+			"type": "image",
+			"name": "la4-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la4_n.png",
+			"type": "image",
+			"name": "la4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la5_n.png",
+			"type": "image",
+			"name": "la5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la6_n.png",
+			"type": "image",
+			"name": "la6_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la7_n.png",
+			"type": "image",
+			"name": "la7_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/la9-4_n.png",
+			"type": "image",
+			"name": "la9-4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/lgicon.png",
+			"type": "image",
+			"name": "lgicon_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/load3_n.png",
+			"type": "image",
+			"name": "load3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/load4_n.png",
+			"type": "image",
+			"name": "load4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/load5_n.png",
+			"type": "image",
+			"name": "load5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/load6_n.png",
+			"type": "image",
+			"name": "load6_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/load7_n.png",
+			"type": "image",
+			"name": "load7_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/load8_n.png",
+			"type": "image",
+			"name": "load8_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/mgicon.png",
+			"type": "image",
+			"name": "mgicon_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/nao1_n.png",
+			"type": "image",
+			"name": "nao1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/nao2_n.png",
+			"type": "image",
+			"name": "nao2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/nao3_n.png",
+			"type": "image",
+			"name": "nao3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/nt1_n.png",
+			"type": "image",
+			"name": "nt1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/nt_n.png",
+			"type": "image",
+			"name": "nt_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ph20_n.png",
+			"type": "image",
+			"name": "ph20_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ph7_n.png",
+			"type": "image",
+			"name": "ph7_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ph8_n.png",
+			"type": "image",
+			"name": "ph8_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ph9_n.png",
+			"type": "image",
+			"name": "ph9_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu1-1_n.png",
+			"type": "image",
+			"name": "renwu1-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu1-2_n.png",
+			"type": "image",
+			"name": "renwu1-2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu1_n.png",
+			"type": "image",
+			"name": "renwu1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu1_s.png",
+			"type": "image",
+			"name": "renwu1_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu2_n.png",
+			"type": "image",
+			"name": "renwu2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu3_n.png",
+			"type": "image",
+			"name": "renwu3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu3_s.png",
+			"type": "image",
+			"name": "renwu3_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu4_n.png",
+			"type": "image",
+			"name": "renwu4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/renwu5_n.png",
+			"type": "image",
+			"name": "renwu5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/sgj_cz_n.png",
+			"type": "image",
+			"name": "sgj_cz_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/sgj_cz_s.png",
+			"type": "image",
+			"name": "sgj_cz_s_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ting1_n.png",
+			"type": "image",
+			"name": "ting1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ting2_n.png",
+			"type": "image",
+			"name": "ting2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ting3_n.png",
+			"type": "image",
+			"name": "ting3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ting4_n.png",
+			"type": "image",
+			"name": "ting4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ting5_n.png",
+			"type": "image",
+			"name": "ting5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ting6_n.png",
+			"type": "image",
+			"name": "ting6_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/ting7_n.png",
+			"type": "image",
+			"name": "ting7_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/yule1_n.png",
+			"type": "image",
+			"name": "yule1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/yule2_n.png",
+			"type": "image",
+			"name": "yule2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/yule3_n.png",
+			"type": "image",
+			"name": "yule3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/publicUI/zqicon.png",
+			"type": "image",
+			"name": "zqicon_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan1_n.png",
+			"type": "image",
+			"name": "jiesuan1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan2-1_n.png",
+			"type": "image",
+			"name": "jiesuan2-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan2-2_n.png",
+			"type": "image",
+			"name": "jiesuan2-2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan2-3_n.png",
+			"type": "image",
+			"name": "jiesuan2-3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan2_n.png",
+			"type": "image",
+			"name": "jiesuan2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan3-1_n.png",
+			"type": "image",
+			"name": "jiesuan3-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan3_n.png",
+			"type": "image",
+			"name": "jiesuan3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan4-1_n.png",
+			"type": "image",
+			"name": "jiesuan4-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan4_n.png",
+			"type": "image",
+			"name": "jiesuan4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan5-1_n.png",
+			"type": "image",
+			"name": "jiesuan5-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/jiesuan5_n.png",
+			"type": "image",
+			"name": "jiesuan5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu100_n.png",
+			"type": "image",
+			"name": "longhu100_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu10_n.png",
+			"type": "image",
+			"name": "longhu10_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu10_s.png",
+			"type": "image",
+			"name": "longhu10_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu11_n.png",
+			"type": "image",
+			"name": "longhu11_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu12_n.png",
+			"type": "image",
+			"name": "longhu12_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu13_n.png",
+			"type": "image",
+			"name": "longhu13_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu14-1_n.png",
+			"type": "image",
+			"name": "longhu14-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu14_n.png",
+			"type": "image",
+			"name": "longhu14_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu15-1_n.png",
+			"type": "image",
+			"name": "longhu15-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu15_n.png",
+			"type": "image",
+			"name": "longhu15_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu16_n.png",
+			"type": "image",
+			"name": "longhu16_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu17_n.png",
+			"type": "image",
+			"name": "longhu17_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu18_n.png",
+			"type": "image",
+			"name": "longhu18_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu19_n.png",
+			"type": "image",
+			"name": "longhu19_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu1_n.jpg",
+			"type": "image",
+			"name": "longhu1_n_jpg"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu20-1_n.png",
+			"type": "image",
+			"name": "longhu20-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu20-2_n.png",
+			"type": "image",
+			"name": "longhu20-2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu20_n.png",
+			"type": "image",
+			"name": "longhu20_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu21_n.png",
+			"type": "image",
+			"name": "longhu21_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu22_n.png",
+			"type": "image",
+			"name": "longhu22_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu23_n.png",
+			"type": "image",
+			"name": "longhu23_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu24_n.png",
+			"type": "image",
+			"name": "longhu24_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu24_s.png",
+			"type": "image",
+			"name": "longhu24_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu25-1_n.png",
+			"type": "image",
+			"name": "longhu25-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu25-1_s.png",
+			"type": "image",
+			"name": "longhu25-1_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu25-2_n.png",
+			"type": "image",
+			"name": "longhu25-2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu25_n.png",
+			"type": "image",
+			"name": "longhu25_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu25_s.png",
+			"type": "image",
+			"name": "longhu25_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu26_n.png",
+			"type": "image",
+			"name": "longhu26_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu26_s.png",
+			"type": "image",
+			"name": "longhu26_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu27_n.png",
+			"type": "image",
+			"name": "longhu27_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu28_n.png",
+			"type": "image",
+			"name": "longhu28_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu29_n.png",
+			"type": "image",
+			"name": "longhu29_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu2_n.png",
+			"type": "image",
+			"name": "longhu2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu3-1_n.png",
+			"type": "image",
+			"name": "longhu3-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu30_n.png",
+			"type": "image",
+			"name": "longhu30_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu31_n.png",
+			"type": "image",
+			"name": "longhu31_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu31_s.png",
+			"type": "image",
+			"name": "longhu31_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu32_n.png",
+			"type": "image",
+			"name": "longhu32_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu32_s.png",
+			"type": "image",
+			"name": "longhu32_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu33_n.png",
+			"type": "image",
+			"name": "longhu33_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu33_s.png",
+			"type": "image",
+			"name": "longhu33_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu34_n.png",
+			"type": "image",
+			"name": "longhu34_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-1_n.png",
+			"type": "image",
+			"name": "longhu35-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-2_n.png",
+			"type": "image",
+			"name": "longhu35-2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-2_s.png",
+			"type": "image",
+			"name": "longhu35-2_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-3_n.png",
+			"type": "image",
+			"name": "longhu35-3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-3_s.png",
+			"type": "image",
+			"name": "longhu35-3_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-4_n.png",
+			"type": "image",
+			"name": "longhu35-4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-4_s.png",
+			"type": "image",
+			"name": "longhu35-4_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-5_n.png",
+			"type": "image",
+			"name": "longhu35-5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-5_s.png",
+			"type": "image",
+			"name": "longhu35-5_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-6_n.png",
+			"type": "image",
+			"name": "longhu35-6_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-7_n.png",
+			"type": "image",
+			"name": "longhu35-7_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-8_n.png",
+			"type": "image",
+			"name": "longhu35-8_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35-9_n.png",
+			"type": "image",
+			"name": "longhu35-9_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu35_n.png",
+			"type": "image",
+			"name": "longhu35_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu36-1_n.png",
+			"type": "image",
+			"name": "longhu36-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu36_n.png",
+			"type": "image",
+			"name": "longhu36_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu37-1_n.png",
+			"type": "image",
+			"name": "longhu37-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu37_n.png",
+			"type": "image",
+			"name": "longhu37_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu38-1_n.png",
+			"type": "image",
+			"name": "longhu38-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu38_n.png",
+			"type": "image",
+			"name": "longhu38_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu39_n.png",
+			"type": "image",
+			"name": "longhu39_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu3_n.png",
+			"type": "image",
+			"name": "longhu3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu40_n.png",
+			"type": "image",
+			"name": "longhu40_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu40_s.png",
+			"type": "image",
+			"name": "longhu40_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu41-1_n.png",
+			"type": "image",
+			"name": "longhu41-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu41_n.png",
+			"type": "image",
+			"name": "longhu41_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu42_n.png",
+			"type": "image",
+			"name": "longhu42_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu42_s.png",
+			"type": "image",
+			"name": "longhu42_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu43_n.png",
+			"type": "image",
+			"name": "longhu43_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu4_n.png",
+			"type": "image",
+			"name": "longhu4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu5_n.png",
+			"type": "image",
+			"name": "longhu5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu6_n.png",
+			"type": "image",
+			"name": "longhu6_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu7_n.png",
+			"type": "image",
+			"name": "longhu7_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu7_s.png",
+			"type": "image",
+			"name": "longhu7_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu80_n.png",
+			"type": "image",
+			"name": "longhu80_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu81_n.png",
+			"type": "image",
+			"name": "longhu81_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu8_1_n.png",
+			"type": "image",
+			"name": "longhu8_1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu8_n.png",
+			"type": "image",
+			"name": "longhu8_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu9-1_n.png",
+			"type": "image",
+			"name": "longhu9-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu9-1_s.png",
+			"type": "image",
+			"name": "longhu9-1_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu9_n.png",
+			"type": "image",
+			"name": "longhu9_n_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu9_s.png",
+			"type": "image",
+			"name": "longhu9_s_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu_fj_dc.png",
+			"type": "image",
+			"name": "longhu_fj_dc_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu_fj_dg.png",
+			"type": "image",
+			"name": "longhu_fj_dg_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu_fj_hdg.png",
+			"type": "image",
+			"name": "longhu_fj_hdg_png"
+		},
+		{
+			"url": "assets/GameAsset/game5_longhu/longhu_lt_pp.png",
+			"type": "image",
+			"name": "longhu_lt_pp_png"
+		},
+		{
+			"url": "assets/b_n.jpg",
+			"type": "image",
+			"name": "b_n_jpg"
+		},
+		{
+			"url": "assets/bxx4-1_n.png",
+			"type": "image",
+			"name": "bxx4-1_n_png"
+		},
+		{
+			"url": "assets/bxx4_n.png",
+			"type": "image",
+			"name": "bxx4_n_png"
+		},
+		{
+			"url": "assets/dlu10_s.png",
+			"type": "image",
+			"name": "dlu10_s_png"
+		},
+		{
+			"url": "assets/dlu10_n.png",
+			"type": "image",
+			"name": "dlu10_n_png"
 		}
 	]
 }

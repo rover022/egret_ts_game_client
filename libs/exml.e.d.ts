@@ -1,3 +1,9 @@
+declare class GameHallSkin extends eui.Skin{
+}
+declare class preload_skin extends eui.Skin{
+}
+declare class RoomSkin extends eui.Skin{
+}
 declare module skins{
 	class ButtonSkin extends eui.Skin{
 	}

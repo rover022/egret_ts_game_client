@@ -16,6 +16,9 @@
 	},
 	"autoGenerateExmlsList": true,
 	"exmls": [
+		"resource/game_skins/GameHallSkin.exml",
+		"resource/game_skins/PreloadSkin.exml",
+		"resource/game_skins/RoomSkin.exml",
 		"resource/eui_skins/ButtonSkin.exml",
 		"resource/eui_skins/CheckBoxSkin.exml",
 		"resource/eui_skins/HScrollBarSkin.exml",
