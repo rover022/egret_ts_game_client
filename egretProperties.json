@@ -44,10 +44,6 @@
     },
     {
       "name": "promise"
-    },
-    {
-      "name": "pomelo-client",
-      "path": "D:/gitchina/egret_ts_game_client/libs/pomelo-client"
     }
   ]
 }

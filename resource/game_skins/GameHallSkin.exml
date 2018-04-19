@@ -1,3 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="GameHallSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui">
+<e:Skin class="GameHallSkin" width="1240" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="1298" height="716" x="1.33" y="0" anchorOffsetX="0" anchorOffsetY="0" source="b_n_jpg" fillMode="clip"/>
+	<e:Image width="1298" height="182" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillMode="clip" source="dzp_jgd_png"/>
+	<e:Button id="beVipBtn" label="" x="0" y="35">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="ggao2_n_png" source.down="ggao2_s_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image width="124" height="130" x="199.01" y="5.32" anchorOffsetX="0" anchorOffsetY="0" fillMode="clip" source="nan_n_png"/>
+	<e:Image width="62.67" height="55.34" anchorOffsetX="0" anchorOffsetY="0" fillMode="clip" source="sgj_cz_n_png" y="32.63" x="553.64"/>
+	<e:Scroller width="1158.66" height="400" x="45" y="164" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group anchorOffsetY="0" height="400">
+			<e:Button id="room0Btn" label="" x="0" y="0">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="ting1_n_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Button id="room1Btn" label="" x="427.81" y="0">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="ting2_n_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Button id="room2Btn" label="" x="822.49" y="0">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="ting3_n_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+		</e:Group>
+	</e:Scroller>
+	<e:Button id="setmoneyBtn" label="" x="1037.67" y="8.5">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="log10_n_png" source.down="log10-1_n_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="getMoney" label="" x="1037.67" y="71">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="log11_n_png" source.down="log11-1_n_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="funSuihuanBtn" label="" x="1116.66" y="546">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="dh_n_png" source.down="dh_s_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="funCanKuBtn" label="" x="1010.99" y="546">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="ck_n_png" source.down="ck_s_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label id="userMoney" text="9.99" x="340.34" y="35.32" anchorOffsetX="0" width="196.66" anchorOffsetY="0" height="50" verticalAlign="middle" textAlign="center"/>
 </e:Skin>

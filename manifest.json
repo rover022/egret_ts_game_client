@@ -9,15 +9,19 @@
 		"libs/modules/socket/socket.js",
 		"libs/modules/game/game.js",
 		"libs/modules/experimental/experimental.js",
-		"libs/modules/promise/promise.js",
-		"libs/pomelo-client/pomelo-client.js"
+		"libs/modules/promise/promise.js"
 	],
 	"game": [
-		"bin-debug/AssetAdapter.js",
-		"bin-debug/LoadingUI.js",
+		"bin-debug/view/room/ViewGameRoom.js",
+		"bin-debug/view/ViewLogin.js",
 		"bin-debug/Main.js",
 		"bin-debug/Platform.js",
 		"bin-debug/ThemeAdapter.js",
-		"bin-debug/view/ViewLogin.js"
+		"bin-debug/LoadingUI.js",
+		"bin-debug/model/UserVo.js",
+		"bin-debug/pomelo/PomeloForEgret.js",
+		"bin-debug/view/Alert.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/manager/GameManager.js"
 	]
 }

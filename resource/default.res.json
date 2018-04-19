@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,b_n_jpg,bxx4-1_n_png,bxx4_n_png,dlu10_s_png,dlu10_n_png",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,b_n_jpg,bxx4-1_n_png,bxx4_n_png,dlu10_s_png,dlu10_n_png,ggao2_s_png,ggao2_n_png,nan_n_png,yule3_n_png,ting1_n_png,ting2_n_png,ting3_n_png,ting4_n_png,ting5_n_png,ting6_n_png,ting7_n_png,yule1_n_png,yule2_n_png,log11_n_png,log10_n_png,log11-1_n_png,log10-1_n_png,dh_s_png,ck_n_png,ck_s_png,dh_n_png,la27_n_png",
 			"name": "preload"
 		},
 		{
-			"keys": "bxx2_n_png,bxx2_s_png,bxx3_n_png,bxx3_s_png,cz_n_png,cz_s_png,dejing59_n_png,dejing61_n_png,dzpk_tx_k_png,dzpk_yzmz_png,dzpk_yzm_mrt_png,dzpk_yzm_srk_png,dzpk_yzm_sxan_png,dzpk_yzm_sxan_s_png,dzp_d1t_png,dzp_d1t2_png,dzp_d2t_png,dzp_d2t2_png,dzp_d3t_png,dzp_d3t2_png,dzp_d4t_png,dzp_d4t2_png,dzp_d5t_png,dzp_d5t2_png,dzp_dd_1_png,dzp_dd_2_png,dzp_dljl_png,dzp_dljz_png,dzp_gb_png,dzp_jgd_png,dzp_ks_n_png,dzp_ks_s_png,dzp_tips_png,dzp_tips_2x_png,dzp_tips_sz1_png,dzp_tips_sz2_png,dzp_tips_x_png,dzp_viojz_png,dzp_wq_png,dzp_z_png,dzp_zjjb_png,erji1_n_png,erji2_n_png,erji3_n_png,erji4_n_png,erji5_n_png,jz1_n_jpg,jz2_n_png,jz3_n_png,la1_n_png,la2-1_n_png,la2_n_png,la3-1_n_png,la3_n_png,la4-1_n_png,la4_n_png,la5_n_png,la6_n_png,la7_n_png,la9-4_n_png,lgicon_png,load3_n_png,load4_n_png,load5_n_png,load6_n_png,load7_n_png,load8_n_png,mgicon_png,nao1_n_png,nao2_n_png,nao3_n_png,nt1_n_png,nt_n_png,ph20_n_png,ph7_n_png,ph8_n_png,ph9_n_png,renwu1-1_n_png,renwu1-2_n_png,renwu1_n_png,renwu1_s_png,renwu2_n_png,renwu3_n_png,renwu3_s_png,renwu4_n_png,renwu5_n_png,sgj_cz_n_png,sgj_cz_s_png,ting1_n_png,ting2_n_png,ting3_n_png,ting4_n_png,ting5_n_png,ting6_n_png,ting7_n_png,yule1_n_png,yule2_n_png,yule3_n_png,zqicon_png",
+			"keys": "bxx2_n_png,bxx2_s_png,bxx3_n_png,bxx3_s_png,cz_n_png,cz_s_png,dejing59_n_png,dejing61_n_png,dzpk_tx_k_png,dzpk_yzmz_png,dzpk_yzm_mrt_png,dzpk_yzm_srk_png,dzpk_yzm_sxan_png,dzpk_yzm_sxan_s_png,dzp_d1t_png,dzp_d1t2_png,dzp_d2t_png,dzp_d2t2_png,dzp_d3t_png,dzp_d3t2_png,dzp_d4t_png,dzp_d4t2_png,dzp_d5t_png,dzp_d5t2_png,dzp_dd_1_png,dzp_dd_2_png,dzp_dljl_png,dzp_dljz_png,dzp_gb_png,dzp_jgd_png,dzp_ks_n_png,dzp_ks_s_png,dzp_tips_png,dzp_tips_2x_png,dzp_tips_sz1_png,dzp_tips_sz2_png,dzp_tips_x_png,dzp_viojz_png,dzp_wq_png,dzp_z_png,dzp_zjjb_png,erji1_n_png,erji2_n_png,erji3_n_png,erji4_n_png,erji5_n_png,jz1_n_jpg,jz2_n_png,jz3_n_png,la1_n_png,la2-1_n_png,la2_n_png,la3-1_n_png,la3_n_png,la4-1_n_png,la4_n_png,la5_n_png,la6_n_png,la7_n_png,la9-4_n_png,lgicon_png,load3_n_png,load4_n_png,load5_n_png,load6_n_png,load7_n_png,load8_n_png,mgicon_png,nao1_n_png,nao2_n_png,nao3_n_png,nt1_n_png,nt_n_png,ph20_n_png,ph7_n_png,ph8_n_png,ph9_n_png,renwu1-1_n_png,renwu1-2_n_png,renwu1_n_png,renwu1_s_png,renwu2_n_png,renwu3_n_png,renwu3_s_png,renwu4_n_png,renwu5_n_png,sgj_cz_s_png,zqicon_png",
 			"name": "publicUI"
 		},
 		{
@@ -853,64 +853,9 @@
 			"name": "renwu5_n_png"
 		},
 		{
-			"url": "assets/GameAsset/publicUI/sgj_cz_n.png",
-			"type": "image",
-			"name": "sgj_cz_n_png"
-		},
-		{
 			"url": "assets/GameAsset/publicUI/sgj_cz_s.png",
 			"type": "image",
 			"name": "sgj_cz_s_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/ting1_n.png",
-			"type": "image",
-			"name": "ting1_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/ting2_n.png",
-			"type": "image",
-			"name": "ting2_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/ting3_n.png",
-			"type": "image",
-			"name": "ting3_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/ting4_n.png",
-			"type": "image",
-			"name": "ting4_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/ting5_n.png",
-			"type": "image",
-			"name": "ting5_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/ting6_n.png",
-			"type": "image",
-			"name": "ting6_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/ting7_n.png",
-			"type": "image",
-			"name": "ting7_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/yule1_n.png",
-			"type": "image",
-			"name": "yule1_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/yule2_n.png",
-			"type": "image",
-			"name": "yule2_n_png"
-		},
-		{
-			"url": "assets/GameAsset/publicUI/yule3_n.png",
-			"type": "image",
-			"name": "yule3_n_png"
 		},
 		{
 			"url": "assets/GameAsset/publicUI/zqicon.png",
@@ -1441,6 +1386,121 @@
 			"url": "assets/dlu10_n.png",
 			"type": "image",
 			"name": "dlu10_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ggao2_s.png",
+			"type": "image",
+			"name": "ggao2_s_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ggao2_n.png",
+			"type": "image",
+			"name": "ggao2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/nan_n.png",
+			"type": "image",
+			"name": "nan_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/yule3_n.png",
+			"type": "image",
+			"name": "yule3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ting1_n.png",
+			"type": "image",
+			"name": "ting1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ting2_n.png",
+			"type": "image",
+			"name": "ting2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ting3_n.png",
+			"type": "image",
+			"name": "ting3_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ting4_n.png",
+			"type": "image",
+			"name": "ting4_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ting5_n.png",
+			"type": "image",
+			"name": "ting5_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ting6_n.png",
+			"type": "image",
+			"name": "ting6_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/ting7_n.png",
+			"type": "image",
+			"name": "ting7_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/yule1_n.png",
+			"type": "image",
+			"name": "yule1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/yule2_n.png",
+			"type": "image",
+			"name": "yule2_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/log11_n.png",
+			"type": "image",
+			"name": "log11_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/log10_n.png",
+			"type": "image",
+			"name": "log10_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/log11-1_n.png",
+			"type": "image",
+			"name": "log11-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/log10-1_n.png",
+			"type": "image",
+			"name": "log10-1_n_png"
+		},
+		{
+			"url": "assets/GameAsset/preload/sgj_cz_n.png",
+			"type": "image",
+			"name": "sgj_cz_n_png"
+		},
+		{
+			"name": "dh_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/preload/dh_s.png"
+		},
+		{
+			"name": "ck_n_png",
+			"type": "image",
+			"url": "assets/GameAsset/preload/ck_n.png"
+		},
+		{
+			"name": "ck_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/preload/ck_s.png"
+		},
+		{
+			"name": "dh_n_png",
+			"type": "image",
+			"url": "assets/GameAsset/preload/dh_n.png"
+		},
+		{
+			"name": "la27_n_png",
+			"type": "image",
+			"url": "assets/GameAsset/preload/la27_n.png"
 		}
 	]
 }

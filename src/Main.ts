@@ -35,22 +35,21 @@ class Main extends eui.UILayer {
 
         egret.lifecycle.addLifecycleListener((context) => {
             // custom lifecycle plugin
-        })
+        });
 
         egret.lifecycle.onPause = () => {
             egret.ticker.pause();
-        }
+        };
 
         egret.lifecycle.onResume = () => {
             egret.ticker.resume();
-        }
+        };
 
         //inject the custom material parser
         //注入自定义的素材解析器
         let assetAdapter = new AssetAdapter();
         egret.registerImplementation("eui.IAssetAdapter", assetAdapter);
         egret.registerImplementation("eui.IThemeAdapter", new ThemeAdapter());
-
 
         this.runGame().catch(e => {
             console.log(e);
@@ -89,7 +88,6 @@ class Main extends eui.UILayer {
             theme.addEventListener(eui.UIEvent.COMPLETE, () => {
                 resolve();
             }, this);
-
         })
     }
 
@@ -164,30 +162,7 @@ class Main extends eui.UILayer {
         //this.queryEntryConnect("chenbin");
     }
 
-    /**
-     * 进入连接服务
-     * @param {Function} cb
-     */
-    queryEntryConnect(uid: string, cb?: Function): void {
-        let _host = "127.0.0.1";
-        let _port = 3140;
-        pomelo.init({host: _host, port: _port, log: true}, () => {
-            let route = "gate.gateHandler.queryEntry";
-            pomelo.request(route, {
-                uid: uid
-            }, data => {
-                console.log(data);
-                pomelo.disconnect();
-                if (data.error) {
-                    //showError(DUPLICATE_ERROR);
-                    return;
-                }
 
-            })
-        })
-
-
-    }
 
 
     /**
