@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,b_n_jpg,bxx4-1_n_png,bxx4_n_png,dlu10_s_png,dlu10_n_png,ggao2_s_png,ggao2_n_png,nan_n_png,yule3_n_png,ting1_n_png,ting2_n_png,ting3_n_png,ting4_n_png,ting5_n_png,ting6_n_png,ting7_n_png,yule1_n_png,yule2_n_png,log11_n_png,log10_n_png,log11-1_n_png,log10-1_n_png,dh_s_png,ck_n_png,ck_s_png,dh_n_png,la27_n_png",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,b_n_jpg,bxx4-1_n_png,bxx4_n_png,dlu10_s_png,dlu10_n_png,ggao2_s_png,ggao2_n_png,nan_n_png,yule3_n_png,ting1_n_png,ting2_n_png,ting3_n_png,ting4_n_png,ting5_n_png,ting6_n_png,ting7_n_png,yule1_n_png,yule2_n_png,log11_n_png,log10_n_png,log11-1_n_png,log10-1_n_png,dh_s_png,ck_n_png,ck_s_png,dh_n_png,la27_n_png,dicmin6_png,chip_5_png,chip_5_s_png,chip_10_png,chip_10_s_png,chip_20_png,chip_20_s_png,chip_50_png,chip_50_s_png,chip_100_png,chip_100_s_png,chip_200_png,chip_200_s_png,chip_500_png,chip_500_s_png,chip_1000_png,chip_1000_s_png,chip_2000_png,chip_2000_s_png,chip_5000_png,chip_5000_s_png,chip_10000_png,chip_10000_s_png,chip_20000_png,chip_20000_s_png,chip_50000_png,chip_50000_s_png,chip_100000_png,chip_100000_s_png,chip_200000_png,chip_200000_s_png,chip_300000_png,chip_300000_s_png,chip_500000_png,chip_500000_s_png,chip_1000000_png,chip_1000000_s_png,CtrlHalo_png,dic1_png,dic2_png,dic3_png,dic4_png,dic5_png,dic6_png,dicemax1_png,dicmin2_png,dicmin3_png,dicmin4_png,dicmin5_png,ic_heart_1_png,ic_rhomb_13_png,ic_rhomb_12_png,ic_rhomb_11_png,ic_rhomb_10_png,ic_rhomb_9_png,ic_rhomb_8_png,ic_rhomb_7_png,ic_rhomb_6_png,ic_rhomb_5_png,ic_rhomb_4_png,ic_rhomb_3_png,ic_rhomb_2_png,ic_rhomb_1_png,ic_plum_13_png,ic_plum_12_png,ic_plum_11_png,ic_plum_10_png,ic_plum_9_png,ic_plum_8_png,ic_plum_7_png,ic_plum_6_png,ic_plum_5_png,ic_plum_4_png,ic_plum_3_png,ic_plum_2_png,ic_plum_1_png,ic_peach_13_png,ic_peach_12_png,ic_peach_11_png,ic_peach_10_png,ic_peach_9_png,ic_peach_8_png,ic_peach_7_png,ic_peach_6_png,ic_peach_5_png,ic_peach_4_png,ic_peach_3_png,ic_peach_2_png,ic_peach_1_png,ic_heart_13_png,ic_heart_12_png,ic_heart_11_png,ic_heart_10_png,ic_heart_9_png,ic_heart_8_png,ic_heart_7_png,ic_heart_6_png,ic_heart_5_png,ic_heart_4_png,ic_heart_3_png,ic_heart_2_png,ic_pokerbg_blue_png,ic_pokerbg_yellow_max_png,ic_pokerbg_yellow_png,ic_pokerbg_red_max_png,ic_pokerbg_red_png,ic_pokerbg_green_max_png,ic_pokerbg_green_png,ic_pokerbg_blue_max_png,add_chip_mp3,amount_need_mp3,b0_mp3,b1_mp3,b2_mp3,b3_mp3,b4_mp3,b5_mp3,b6_mp3,b7_mp3,b8_mp3,b9_mp3,background1_mp3,background2_mp3,background3_mp3,background4_mp3,banker_see_mp3,banker_win_mp3,bet_success_mp3,b_bpair_win_mp3,b_bppair_win_mp3,b_ppair_win_mp3,d1_mp3,d10_mp3,d11_mp3,d12_mp3,d13_mp3,d2_mp3,d3_mp3,d4_mp3,d5_mp3,d6_mp3,d7_mp3,d8_mp3,d9_mp3,dragon_win_mp3,fly_mp3,h_s10_mp3,h_s11_mp3,h_s12_mp3,h_s13_mp3,h_s14_mp3,h_s15_mp3,h_s16_mp3,h_s17_mp3,h_s18_mp3,h_s3_mp3,h_s4_mp3,h_s5_mp3,h_s6_mp3,h_s7_mp3,h_s8_mp3,h_s9_mp3,new_shoe_mp3,open_mp3,p0_mp3,p1_mp3,p2_mp3,p3_mp3,p4_mp3,p5_mp3,p6_mp3,p7_mp3,p8_mp3,p9_mp3,player_see_mp3,player_win_mp3,push_cash_mp3,p_bpair_win_mp3,p_bppair_win_mp3,p_ppair_win_mp3,r1_mp3,r2_mp3,r3_mp3,r4_mp3,r5_mp3,r6_mp3,start_bet_mp3,stop_bet_mp3,t1_mp3,t10_mp3,t11_mp3,t12_mp3,t13_mp3,t2_mp3,t3_mp3,t4_mp3,t5_mp3,t6_mp3,t7_mp3,t8_mp3,t9_mp3,thx_tip_mp3,tie_mp3,tiger_win_mp3,t_bpair_mp3,t_bppair_mp3,t_ppair_mp3,welcome_mp3,welcome_cbac_mp3,welcome_dt_mp3,welcome_hsb_mp3",
 			"name": "preload"
 		},
 		{
@@ -1501,6 +1501,1061 @@
 			"name": "la27_n_png",
 			"type": "image",
 			"url": "assets/GameAsset/preload/la27_n.png"
+		},
+		{
+			"name": "dicmin6_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dicmin6.png"
+		},
+		{
+			"name": "chip_5_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_5.png"
+		},
+		{
+			"name": "chip_5_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_5_s.png"
+		},
+		{
+			"name": "chip_10_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_10.png"
+		},
+		{
+			"name": "chip_10_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_10_s.png"
+		},
+		{
+			"name": "chip_20_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_20.png"
+		},
+		{
+			"name": "chip_20_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_20_s.png"
+		},
+		{
+			"name": "chip_50_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_50.png"
+		},
+		{
+			"name": "chip_50_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_50_s.png"
+		},
+		{
+			"name": "chip_100_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_100.png"
+		},
+		{
+			"name": "chip_100_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_100_s.png"
+		},
+		{
+			"name": "chip_200_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_200.png"
+		},
+		{
+			"name": "chip_200_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_200_s.png"
+		},
+		{
+			"name": "chip_500_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_500.png"
+		},
+		{
+			"name": "chip_500_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_500_s.png"
+		},
+		{
+			"name": "chip_1000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_1000.png"
+		},
+		{
+			"name": "chip_1000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_1000_s.png"
+		},
+		{
+			"name": "chip_2000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_2000.png"
+		},
+		{
+			"name": "chip_2000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_2000_s.png"
+		},
+		{
+			"name": "chip_5000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_5000.png"
+		},
+		{
+			"name": "chip_5000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_5000_s.png"
+		},
+		{
+			"name": "chip_10000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_10000.png"
+		},
+		{
+			"name": "chip_10000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_10000_s.png"
+		},
+		{
+			"name": "chip_20000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_20000.png"
+		},
+		{
+			"name": "chip_20000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_20000_s.png"
+		},
+		{
+			"name": "chip_50000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_50000.png"
+		},
+		{
+			"name": "chip_50000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_50000_s.png"
+		},
+		{
+			"name": "chip_100000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_100000.png"
+		},
+		{
+			"name": "chip_100000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_100000_s.png"
+		},
+		{
+			"name": "chip_200000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_200000.png"
+		},
+		{
+			"name": "chip_200000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_200000_s.png"
+		},
+		{
+			"name": "chip_300000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_300000.png"
+		},
+		{
+			"name": "chip_300000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_300000_s.png"
+		},
+		{
+			"name": "chip_500000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_500000.png"
+		},
+		{
+			"name": "chip_500000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_500000_s.png"
+		},
+		{
+			"name": "chip_1000000_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_1000000.png"
+		},
+		{
+			"name": "chip_1000000_s_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/chip_1000000_s.png"
+		},
+		{
+			"name": "CtrlHalo_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/CtrlHalo.png"
+		},
+		{
+			"name": "dic1_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dic1.png"
+		},
+		{
+			"name": "dic2_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dic2.png"
+		},
+		{
+			"name": "dic3_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dic3.png"
+		},
+		{
+			"name": "dic4_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dic4.png"
+		},
+		{
+			"name": "dic5_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dic5.png"
+		},
+		{
+			"name": "dic6_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dic6.png"
+		},
+		{
+			"name": "dicemax1_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dicemax1.png"
+		},
+		{
+			"name": "dicmin2_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dicmin2.png"
+		},
+		{
+			"name": "dicmin3_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dicmin3.png"
+		},
+		{
+			"name": "dicmin4_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dicmin4.png"
+		},
+		{
+			"name": "dicmin5_png",
+			"type": "image",
+			"url": "assets/GameAsset/room/dicmin5.png"
+		},
+		{
+			"name": "ic_heart_1_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_1.png"
+		},
+		{
+			"name": "ic_rhomb_13_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_13.png"
+		},
+		{
+			"name": "ic_rhomb_12_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_12.png"
+		},
+		{
+			"name": "ic_rhomb_11_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_11.png"
+		},
+		{
+			"name": "ic_rhomb_10_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_10.png"
+		},
+		{
+			"name": "ic_rhomb_9_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_9.png"
+		},
+		{
+			"name": "ic_rhomb_8_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_8.png"
+		},
+		{
+			"name": "ic_rhomb_7_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_7.png"
+		},
+		{
+			"name": "ic_rhomb_6_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_6.png"
+		},
+		{
+			"name": "ic_rhomb_5_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_5.png"
+		},
+		{
+			"name": "ic_rhomb_4_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_4.png"
+		},
+		{
+			"name": "ic_rhomb_3_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_3.png"
+		},
+		{
+			"name": "ic_rhomb_2_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_2.png"
+		},
+		{
+			"name": "ic_rhomb_1_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_rhomb_1.png"
+		},
+		{
+			"name": "ic_plum_13_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_13.png"
+		},
+		{
+			"name": "ic_plum_12_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_12.png"
+		},
+		{
+			"name": "ic_plum_11_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_11.png"
+		},
+		{
+			"name": "ic_plum_10_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_10.png"
+		},
+		{
+			"name": "ic_plum_9_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_9.png"
+		},
+		{
+			"name": "ic_plum_8_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_8.png"
+		},
+		{
+			"name": "ic_plum_7_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_7.png"
+		},
+		{
+			"name": "ic_plum_6_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_6.png"
+		},
+		{
+			"name": "ic_plum_5_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_5.png"
+		},
+		{
+			"name": "ic_plum_4_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_4.png"
+		},
+		{
+			"name": "ic_plum_3_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_3.png"
+		},
+		{
+			"name": "ic_plum_2_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_2.png"
+		},
+		{
+			"name": "ic_plum_1_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_plum_1.png"
+		},
+		{
+			"name": "ic_peach_13_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_13.png"
+		},
+		{
+			"name": "ic_peach_12_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_12.png"
+		},
+		{
+			"name": "ic_peach_11_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_11.png"
+		},
+		{
+			"name": "ic_peach_10_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_10.png"
+		},
+		{
+			"name": "ic_peach_9_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_9.png"
+		},
+		{
+			"name": "ic_peach_8_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_8.png"
+		},
+		{
+			"name": "ic_peach_7_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_7.png"
+		},
+		{
+			"name": "ic_peach_6_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_6.png"
+		},
+		{
+			"name": "ic_peach_5_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_5.png"
+		},
+		{
+			"name": "ic_peach_4_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_4.png"
+		},
+		{
+			"name": "ic_peach_3_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_3.png"
+		},
+		{
+			"name": "ic_peach_2_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_2.png"
+		},
+		{
+			"name": "ic_peach_1_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_peach_1.png"
+		},
+		{
+			"name": "ic_heart_13_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_13.png"
+		},
+		{
+			"name": "ic_heart_12_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_12.png"
+		},
+		{
+			"name": "ic_heart_11_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_11.png"
+		},
+		{
+			"name": "ic_heart_10_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_10.png"
+		},
+		{
+			"name": "ic_heart_9_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_9.png"
+		},
+		{
+			"name": "ic_heart_8_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_8.png"
+		},
+		{
+			"name": "ic_heart_7_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_7.png"
+		},
+		{
+			"name": "ic_heart_6_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_6.png"
+		},
+		{
+			"name": "ic_heart_5_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_5.png"
+		},
+		{
+			"name": "ic_heart_4_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_4.png"
+		},
+		{
+			"name": "ic_heart_3_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_3.png"
+		},
+		{
+			"name": "ic_heart_2_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_heart_2.png"
+		},
+		{
+			"name": "ic_pokerbg_blue_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_blue.png"
+		},
+		{
+			"name": "ic_pokerbg_yellow_max_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_yellow_max.png"
+		},
+		{
+			"name": "ic_pokerbg_yellow_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_yellow.png"
+		},
+		{
+			"name": "ic_pokerbg_red_max_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_red_max.png"
+		},
+		{
+			"name": "ic_pokerbg_red_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_red.png"
+		},
+		{
+			"name": "ic_pokerbg_green_max_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_green_max.png"
+		},
+		{
+			"name": "ic_pokerbg_green_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_green.png"
+		},
+		{
+			"name": "ic_pokerbg_blue_max_png",
+			"type": "image",
+			"url": "assets/GameAsset/publicUI/card1/ic_pokerbg_blue_max.png"
+		},
+		{
+			"name": "add_chip_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/add_chip.mp3"
+		},
+		{
+			"name": "amount_need_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/amount_need.mp3"
+		},
+		{
+			"name": "b0_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b0.mp3"
+		},
+		{
+			"name": "b1_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b1.mp3"
+		},
+		{
+			"name": "b2_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b2.mp3"
+		},
+		{
+			"name": "b3_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b3.mp3"
+		},
+		{
+			"name": "b4_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b4.mp3"
+		},
+		{
+			"name": "b5_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b5.mp3"
+		},
+		{
+			"name": "b6_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b6.mp3"
+		},
+		{
+			"name": "b7_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b7.mp3"
+		},
+		{
+			"name": "b8_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b8.mp3"
+		},
+		{
+			"name": "b9_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b9.mp3"
+		},
+		{
+			"name": "background1_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/background1.mp3"
+		},
+		{
+			"name": "background2_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/background2.mp3"
+		},
+		{
+			"name": "background3_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/background3.mp3"
+		},
+		{
+			"name": "background4_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/background4.mp3"
+		},
+		{
+			"name": "banker_see_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/banker_see.mp3"
+		},
+		{
+			"name": "banker_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/banker_win.mp3"
+		},
+		{
+			"name": "bet_success_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/bet_success.mp3"
+		},
+		{
+			"name": "b_bpair_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b_bpair_win.mp3"
+		},
+		{
+			"name": "b_bppair_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b_bppair_win.mp3"
+		},
+		{
+			"name": "b_ppair_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/b_ppair_win.mp3"
+		},
+		{
+			"name": "d1_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d1.mp3"
+		},
+		{
+			"name": "d10_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d10.mp3"
+		},
+		{
+			"name": "d11_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d11.mp3"
+		},
+		{
+			"name": "d12_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d12.mp3"
+		},
+		{
+			"name": "d13_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d13.mp3"
+		},
+		{
+			"name": "d2_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d2.mp3"
+		},
+		{
+			"name": "d3_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d3.mp3"
+		},
+		{
+			"name": "d4_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d4.mp3"
+		},
+		{
+			"name": "d5_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d5.mp3"
+		},
+		{
+			"name": "d6_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d6.mp3"
+		},
+		{
+			"name": "d7_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d7.mp3"
+		},
+		{
+			"name": "d8_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d8.mp3"
+		},
+		{
+			"name": "d9_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/d9.mp3"
+		},
+		{
+			"name": "dragon_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/dragon_win.mp3"
+		},
+		{
+			"name": "fly_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/fly.mp3"
+		},
+		{
+			"name": "h_s10_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s10.mp3"
+		},
+		{
+			"name": "h_s11_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s11.mp3"
+		},
+		{
+			"name": "h_s12_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s12.mp3"
+		},
+		{
+			"name": "h_s13_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s13.mp3"
+		},
+		{
+			"name": "h_s14_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s14.mp3"
+		},
+		{
+			"name": "h_s15_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s15.mp3"
+		},
+		{
+			"name": "h_s16_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s16.mp3"
+		},
+		{
+			"name": "h_s17_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s17.mp3"
+		},
+		{
+			"name": "h_s18_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s18.mp3"
+		},
+		{
+			"name": "h_s3_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s3.mp3"
+		},
+		{
+			"name": "h_s4_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s4.mp3"
+		},
+		{
+			"name": "h_s5_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s5.mp3"
+		},
+		{
+			"name": "h_s6_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s6.mp3"
+		},
+		{
+			"name": "h_s7_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s7.mp3"
+		},
+		{
+			"name": "h_s8_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s8.mp3"
+		},
+		{
+			"name": "h_s9_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/h_s9.mp3"
+		},
+		{
+			"name": "new_shoe_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/new_shoe.mp3"
+		},
+		{
+			"name": "open_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/open.mp3"
+		},
+		{
+			"name": "p0_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p0.mp3"
+		},
+		{
+			"name": "p1_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p1.mp3"
+		},
+		{
+			"name": "p2_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p2.mp3"
+		},
+		{
+			"name": "p3_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p3.mp3"
+		},
+		{
+			"name": "p4_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p4.mp3"
+		},
+		{
+			"name": "p5_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p5.mp3"
+		},
+		{
+			"name": "p6_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p6.mp3"
+		},
+		{
+			"name": "p7_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p7.mp3"
+		},
+		{
+			"name": "p8_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p8.mp3"
+		},
+		{
+			"name": "p9_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p9.mp3"
+		},
+		{
+			"name": "player_see_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/player_see.mp3"
+		},
+		{
+			"name": "player_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/player_win.mp3"
+		},
+		{
+			"name": "push_cash_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/push_cash.mp3"
+		},
+		{
+			"name": "p_bpair_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p_bpair_win.mp3"
+		},
+		{
+			"name": "p_bppair_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p_bppair_win.mp3"
+		},
+		{
+			"name": "p_ppair_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/p_ppair_win.mp3"
+		},
+		{
+			"name": "r1_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/r1.mp3"
+		},
+		{
+			"name": "r2_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/r2.mp3"
+		},
+		{
+			"name": "r3_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/r3.mp3"
+		},
+		{
+			"name": "r4_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/r4.mp3"
+		},
+		{
+			"name": "r5_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/r5.mp3"
+		},
+		{
+			"name": "r6_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/r6.mp3"
+		},
+		{
+			"name": "start_bet_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/start_bet.mp3"
+		},
+		{
+			"name": "stop_bet_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/stop_bet.mp3"
+		},
+		{
+			"name": "t1_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t1.mp3"
+		},
+		{
+			"name": "t10_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t10.mp3"
+		},
+		{
+			"name": "t11_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t11.mp3"
+		},
+		{
+			"name": "t12_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t12.mp3"
+		},
+		{
+			"name": "t13_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t13.mp3"
+		},
+		{
+			"name": "t2_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t2.mp3"
+		},
+		{
+			"name": "t3_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t3.mp3"
+		},
+		{
+			"name": "t4_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t4.mp3"
+		},
+		{
+			"name": "t5_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t5.mp3"
+		},
+		{
+			"name": "t6_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t6.mp3"
+		},
+		{
+			"name": "t7_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t7.mp3"
+		},
+		{
+			"name": "t8_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t8.mp3"
+		},
+		{
+			"name": "t9_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t9.mp3"
+		},
+		{
+			"name": "thx_tip_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/thx_tip.mp3"
+		},
+		{
+			"name": "tie_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/tie.mp3"
+		},
+		{
+			"name": "tiger_win_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/tiger_win.mp3"
+		},
+		{
+			"name": "t_bpair_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t_bpair.mp3"
+		},
+		{
+			"name": "t_bppair_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t_bppair.mp3"
+		},
+		{
+			"name": "t_ppair_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/t_ppair.mp3"
+		},
+		{
+			"name": "welcome_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/welcome.mp3"
+		},
+		{
+			"name": "welcome_cbac_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/welcome_cbac.mp3"
+		},
+		{
+			"name": "welcome_dt_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/welcome_dt.mp3"
+		},
+		{
+			"name": "welcome_hsb_mp3",
+			"type": "sound",
+			"url": "assets/GameAsset/sound/welcome_hsb.mp3"
 		}
 	]
 }
